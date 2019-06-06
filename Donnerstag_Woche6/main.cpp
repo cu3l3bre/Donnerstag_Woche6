@@ -18,7 +18,7 @@ int multipliziereZahlen(int zahl1, int zahl2)
 }
 
 
-
+// main
 int main()
 {
 	cout << "Programm zum Donnerstag Woche 6" << endl << endl;
